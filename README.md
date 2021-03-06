@@ -59,3 +59,4 @@ The AirplaneSeating program asks the user for the seat they would like to reserv
    snip showing what your screen looks like after 4 or 5 seats have been assigned.
    Be sure to demonstrate what happens when the user tries to reserve a seat that
    is already taken or specifies an invalid seat (for example, 9A or 5E).
+ 
